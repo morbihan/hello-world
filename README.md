@@ -23,3 +23,5 @@ What happens when i push while the online version is newer?
 It gives a warning. So pull :-)
 
 I like this.
+
+A recap on Git commit push etc.
