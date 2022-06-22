@@ -25,3 +25,5 @@ It gives a warning. So pull :-)
 I like this.
 
 A recap on Git commit push etc.
+
+test 22 june 2022
